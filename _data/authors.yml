@@ -67,7 +67,7 @@ vahid:
   stackoverflow: https://stackoverflow.com/users/5358899/sorrow-poetry
   avatar: /assets/images/vahid.jpg
   twitter: https://twitter.com/vahidm_sp
-  website: 
+  website:
   bio: "php and wordpress developer"
 aien:
   name: آیین سعیدی
@@ -89,3 +89,12 @@ erfun:
   twitter: https://twitter.com/erfansahaf
   website: http://erfun.me
   bio: "Just a normal guy who works as a Back-End developer."
+seyyed:
+  name: سید مرتضی موسوی
+  unique_id: seyyed
+  title: سید مرتضی موسوی
+  github: https://github.com/smmoosavi
+  stackoverflow: https://stackoverflow.com/users/896465/seyed
+  avatar: /assets/images/seyyed.jpg
+  twitter: https://twitter.com/semomoosavi
+  bio: "Full stack developer"
